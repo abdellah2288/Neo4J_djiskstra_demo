@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Djikstra","l":"Djikstra"},{"p":"<Unnamed>","l":"Main"},{"p":"N4J","l":"Nproperty"},{"p":"N4J","l":"Nserver"}];updateSearchResults();
