@@ -36,6 +36,9 @@ Use various methods to perform operations on the graph (create nodes, set proper
 - String getTargetGraph(): Gets the target graph name.
 - void setTargetGraph(String targetGraph): Sets the target graph name.
 
+## Documentation
+Documentation can be found under the Docs folder, it provides a comprehensive view of all classes and methods, open index.html in your browser of choice to access it.
+
 ## Dependencies:
 - Neo4j Java Driver
 ## License:
